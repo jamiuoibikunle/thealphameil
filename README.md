@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jamiu Ibikunle. I am a MERN stack developer with more than two years of experience in web development. I am currently working on a cross-platform social media application.
+- 💞️ I am open to collaborating on open-source projects.
+- 📫 You can reach me on jamiuoibikunle@gmail.com
