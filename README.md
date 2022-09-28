@@ -6,5 +6,6 @@ I am a Typescript developer and I have been a developer for more than 5 years, p
 4. React JS
 5. Express
 6. GraphQL
+7. Golang
   
 I also write along the way. I've found that I understand web development concepts better when I try to explain it to imaginary students. You can check out my blog [here](https://blog.alvastack.com.ng)
